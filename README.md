@@ -1,6 +1,6 @@
 # Health_Indicator_Predictions
 
-This is the repo for joournal paper "Predicting Health Indicators for Open Source Projects (using Hyperparameter Optimization)"
+This is the repo for journal paper "Predicting Health Indicators for Open Source Projects (using Hyperparameter Optimization)"
 
 <img width="400" alt="001" src="https://user-images.githubusercontent.com/16036156/158908059-fe75b45b-9040-401a-a133-e3cc88a48edb.jpg">
 
