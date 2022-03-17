@@ -26,9 +26,9 @@ Submitted to [Empirical Software Engineering](https://www.springer.com/journal/1
   + Computer Science, NC State University, USA 
   + timm@ieee.org
 
-## Dataset
+## Open source resource
 
-+ [open source data](https://github.com/arennax/Health_Indicator_Prediction/tree/master/experiment_data_cleaned)
++ [Github datasets](https://github.com/arennax/Health_Indicator_Prediction/tree/master/experiment_data_cleaned)
 
 ## License
 
