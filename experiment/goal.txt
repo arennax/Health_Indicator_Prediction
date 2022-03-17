@@ -1,0 +1,17 @@
+For each release, get the data about:
+
+number of days since last release;
+number of contributors;
+number of new contributors (those don't appear before);
+number of committer-domains;
+number of new committer-domains (those don't appear before);
+number of merged PRs;
+number opened PRs;
+number closed PRs;
+number of PR comments;
+
+Also, for each release:
+details about commit distribution in contributors
+details about commit distribution in committer-domains
+
+avoid API abuse problem
